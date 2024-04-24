@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 JKL
+=======
+GHI
+>>>>>>> feature/MC-003-conflict-exercise
 456
 789
